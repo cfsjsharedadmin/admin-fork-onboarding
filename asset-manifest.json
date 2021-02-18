@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/onboarding/static/css/main.3beb0a4e.chunk.css",
-    "main.js": "/onboarding/static/js/main.28138ebb.chunk.js",
-    "main.js.map": "/onboarding/static/js/main.28138ebb.chunk.js.map",
-    "runtime-main.js": "/onboarding/static/js/runtime-main.1688fccf.js",
-    "runtime-main.js.map": "/onboarding/static/js/runtime-main.1688fccf.js.map",
-    "static/css/2.ec1c82de.chunk.css": "/onboarding/static/css/2.ec1c82de.chunk.css",
-    "static/js/2.6aa47137.chunk.js": "/onboarding/static/js/2.6aa47137.chunk.js",
-    "static/js/2.6aa47137.chunk.js.map": "/onboarding/static/js/2.6aa47137.chunk.js.map",
-    "index.html": "/onboarding/index.html",
-    "precache-manifest.40e735cc86f0aa580f45592722ef303d.js": "/onboarding/precache-manifest.40e735cc86f0aa580f45592722ef303d.js",
-    "service-worker.js": "/onboarding/service-worker.js",
-    "static/css/2.ec1c82de.chunk.css.map": "/onboarding/static/css/2.ec1c82de.chunk.css.map",
-    "static/css/main.3beb0a4e.chunk.css.map": "/onboarding/static/css/main.3beb0a4e.chunk.css.map",
-    "static/media/flaticon.css": "/onboarding/static/media/Flaticon2.eafcbac0.ttf",
-    "static/media/ki.css": "/onboarding/static/media/Ki.8f9a1a6c.woff",
-    "static/media/all.min.css": "/onboarding/static/media/fa-solid-900.ec763292.svg",
-    "static/media/socicon.css": "/onboarding/static/media/socicon.a35b6574.svg"
+    "main.css": "/admin-fork-onboarding/static/css/main.4a0af102.chunk.css",
+    "main.js": "/admin-fork-onboarding/static/js/main.2a7f7fd9.chunk.js",
+    "main.js.map": "/admin-fork-onboarding/static/js/main.2a7f7fd9.chunk.js.map",
+    "runtime-main.js": "/admin-fork-onboarding/static/js/runtime-main.db27cdd4.js",
+    "runtime-main.js.map": "/admin-fork-onboarding/static/js/runtime-main.db27cdd4.js.map",
+    "static/css/2.c9ce2f93.chunk.css": "/admin-fork-onboarding/static/css/2.c9ce2f93.chunk.css",
+    "static/js/2.6aa47137.chunk.js": "/admin-fork-onboarding/static/js/2.6aa47137.chunk.js",
+    "static/js/2.6aa47137.chunk.js.map": "/admin-fork-onboarding/static/js/2.6aa47137.chunk.js.map",
+    "index.html": "/admin-fork-onboarding/index.html",
+    "precache-manifest.cb82f28b6b1a1aaef951a108677f9f00.js": "/admin-fork-onboarding/precache-manifest.cb82f28b6b1a1aaef951a108677f9f00.js",
+    "service-worker.js": "/admin-fork-onboarding/service-worker.js",
+    "static/css/2.c9ce2f93.chunk.css.map": "/admin-fork-onboarding/static/css/2.c9ce2f93.chunk.css.map",
+    "static/css/main.4a0af102.chunk.css.map": "/admin-fork-onboarding/static/css/main.4a0af102.chunk.css.map",
+    "static/media/flaticon.css": "/admin-fork-onboarding/static/media/Flaticon2.eafcbac0.ttf",
+    "static/media/ki.css": "/admin-fork-onboarding/static/media/Ki.8f9a1a6c.woff",
+    "static/media/all.min.css": "/admin-fork-onboarding/static/media/fa-solid-900.ec763292.svg",
+    "static/media/socicon.css": "/admin-fork-onboarding/static/media/socicon.a35b6574.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1688fccf.js",
-    "static/css/2.ec1c82de.chunk.css",
+    "static/js/runtime-main.db27cdd4.js",
+    "static/css/2.c9ce2f93.chunk.css",
     "static/js/2.6aa47137.chunk.js",
-    "static/css/main.3beb0a4e.chunk.css",
-    "static/js/main.28138ebb.chunk.js"
+    "static/css/main.4a0af102.chunk.css",
+    "static/js/main.2a7f7fd9.chunk.js"
   ]
 }
